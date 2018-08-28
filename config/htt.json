@@ -1,0 +1,19 @@
+{    
+	"num":1,
+	"loop":1,
+	"op":[
+		
+		{
+			"num":"4",
+			"sleep":[3],
+			"type":"click",
+			"key":0,
+			"taptime":0,
+			"clickimg":"config/img/htt.jpg",
+			"pos":0,
+			"dpos":0,
+			"ischeck":0,
+			"checkimg":0
+		}
+	]
+}
